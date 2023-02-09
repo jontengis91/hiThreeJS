@@ -36,7 +36,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'I <3 Cheerios',
+            'I <3 Cheerios...',
             {
                 font: font,
                 size: 0.5,

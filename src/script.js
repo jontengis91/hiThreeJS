@@ -36,7 +36,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Jon 4 President.js',
+            'I <3 Cheerios',
             {
                 font: font,
                 size: 0.5,
